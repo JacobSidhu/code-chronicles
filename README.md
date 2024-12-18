@@ -8,8 +8,10 @@ Code Chronicles is my personal coding journey, showcasing daily problem-solving 
 - Document my growth as a software developer.
 
 ## Repository Structure
-- `problems/`: Problem statements organized by category.
-- `solutions/`: My code solutions for the problems.
+- `problem-statements/`: Problem descriptions in Markdown.
+- `solutions/`: Solutions organized by language and topic.
+  - `python/`: Python solutions.
+  - `cpp/`: C++ solutions.
 - `notes/`: Insights, patterns, and learnings from each problem.
 
 ## Platforms
