@@ -4,7 +4,7 @@
 int findMissingNumber(std::array<int, 9> &arr){
 
     // Range of the array
-    int range = arr.back();
+    int range = *std::max_element(arr.begin(), arr.end());
 
     // Calculating the sum of elements present inside the array.
     int sumOfWholeArray = 0;
