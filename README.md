@@ -18,7 +18,7 @@ Code Chronicles is my personal coding journey, showcasing daily problem-solving 
 - Problems sourced from platforms like LeetCode, HackerRank, and Codeforces.
 
 ## Progress Tracker
-- Solved Problems: 4/365 (Starting strong!)
+- Solved Problems: 6/365 (Starting strong!)
 
 ## Goals
 - Solve a diverse set of problems across various domains.
