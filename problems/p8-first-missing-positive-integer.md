@@ -27,4 +27,8 @@ Given an unsorted array of integers, find the smallest positive integer that is 
 
 ## Hints
 1. Think of the problem as sorting integers within a specific range.
+<<<<<<< HEAD
 2. Use the array itself to track the presence of integers instead of allocating extra space.
+=======
+2. Use the array itself to track the presence of integers instead of allocating extra space.
+>>>>>>> 89a50cb1aef974eb6116a586edea22df0ab43616
